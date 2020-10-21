@@ -1,2 +1,2 @@
 # MyPracticeWithRepo
-This repo is created with the intention to learn how to use repo
+before i start using repo, let me first introduce myself. my name is Alex 
